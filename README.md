@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siaw22
+- 👋 Hi, I’m @Akwetey
 - 👀 I’m interested in reading and playing chess
 - 🌱 I’m currently a beginner learning software engineering with ALX
 - 💞️ I’m looking to collaborate with bloggers or code writers who like to write to help newbies and share information on coding 
